@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<widget id="FlowChart.widget.FlowChart" needsEntityContext="true" xmlns="http://www.mendix.com/widget/1.0/">
+    <name>FlowChart</name>
+    <description>The description of this widget.</description>
+
+    <icon />
+
+    <properties>
+        <property key="ContentAttr" type="attribute">
+            <caption>Content</caption>
+            <category>Data source</category>
+            <description>The chart configuration content</description>
+            <attributeTypes>
+                <attributeType name="String" />
+            </attributeTypes>
+        </property>
+    </properties>
+</widget>
+
